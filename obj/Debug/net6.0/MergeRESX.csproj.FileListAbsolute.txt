@@ -1,0 +1,120 @@
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\bin\Debug\net6.0\MergeRESX.exe
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\bin\Debug\net6.0\MergeRESX.deps.json
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\bin\Debug\net6.0\MergeRESX.runtimeconfig.json
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\bin\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\bin\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.csproj.AssemblyReference.cache
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.AssemblyInfoInputs.cache
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.AssemblyInfo.cs
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.csproj.CoreCompileInputs.cache
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\obj\Debug\net6.0\refint\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.genruntimeconfig.cache
+C:\Users\emilm\Desktop\LangWork\New folder3\MergeRESX\obj\Debug\net6.0\ref\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\bin\Debug\net6.0\MergeRESX.exe
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\bin\Debug\net6.0\MergeRESX.deps.json
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\bin\Debug\net6.0\MergeRESX.runtimeconfig.json
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\bin\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\bin\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.csproj.AssemblyReference.cache
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.AssemblyInfoInputs.cache
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.AssemblyInfo.cs
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.csproj.CoreCompileInputs.cache
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\obj\Debug\net6.0\refint\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\obj\Debug\net6.0\MergeRESX.genruntimeconfig.cache
+C:\Users\emilm\Desktop\LangWork\Brenchs\New folder3\MergeRESX\obj\Debug\net6.0\ref\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\New folder\bin\Debug\net6.0\MergeRESX.exe
+C:\Users\emilm\Desktop\LangWork\New folder\bin\Debug\net6.0\MergeRESX.deps.json
+C:\Users\emilm\Desktop\LangWork\New folder\bin\Debug\net6.0\MergeRESX.runtimeconfig.json
+C:\Users\emilm\Desktop\LangWork\New folder\bin\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\New folder\bin\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\New folder\obj\Debug\net6.0\MergeRESX.csproj.AssemblyReference.cache
+C:\Users\emilm\Desktop\LangWork\New folder\obj\Debug\net6.0\MergeRESX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilm\Desktop\LangWork\New folder\obj\Debug\net6.0\MergeRESX.AssemblyInfoInputs.cache
+C:\Users\emilm\Desktop\LangWork\New folder\obj\Debug\net6.0\MergeRESX.AssemblyInfo.cs
+C:\Users\emilm\Desktop\LangWork\New folder\obj\Debug\net6.0\MergeRESX.csproj.CoreCompileInputs.cache
+C:\Users\emilm\Desktop\LangWork\New folder\obj\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\New folder\obj\Debug\net6.0\refint\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\New folder\obj\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\New folder\obj\Debug\net6.0\MergeRESX.genruntimeconfig.cache
+C:\Users\emilm\Desktop\LangWork\New folder\obj\Debug\net6.0\ref\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\Lang\bin\Debug\net6.0\MergeRESX.exe
+C:\Users\emilm\Desktop\LangWork\Lang\bin\Debug\net6.0\MergeRESX.deps.json
+C:\Users\emilm\Desktop\LangWork\Lang\bin\Debug\net6.0\MergeRESX.runtimeconfig.json
+C:\Users\emilm\Desktop\LangWork\Lang\bin\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\Lang\bin\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\Lang\obj\Debug\net6.0\MergeRESX.csproj.AssemblyReference.cache
+C:\Users\emilm\Desktop\LangWork\Lang\obj\Debug\net6.0\MergeRESX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilm\Desktop\LangWork\Lang\obj\Debug\net6.0\MergeRESX.AssemblyInfoInputs.cache
+C:\Users\emilm\Desktop\LangWork\Lang\obj\Debug\net6.0\MergeRESX.AssemblyInfo.cs
+C:\Users\emilm\Desktop\LangWork\Lang\obj\Debug\net6.0\MergeRESX.csproj.CoreCompileInputs.cache
+C:\Users\emilm\Desktop\LangWork\Lang\obj\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\Lang\obj\Debug\net6.0\refint\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\Lang\obj\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\Lang\obj\Debug\net6.0\MergeRESX.genruntimeconfig.cache
+C:\Users\emilm\Desktop\LangWork\Lang\obj\Debug\net6.0\ref\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\bin\Debug\net6.0\MergeRESX.exe
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\bin\Debug\net6.0\MergeRESX.deps.json
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\bin\Debug\net6.0\MergeRESX.runtimeconfig.json
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\bin\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\bin\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\obj\Debug\net6.0\MergeRESX.csproj.AssemblyReference.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\obj\Debug\net6.0\MergeRESX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\obj\Debug\net6.0\MergeRESX.AssemblyInfoInputs.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\obj\Debug\net6.0\MergeRESX.AssemblyInfo.cs
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\obj\Debug\net6.0\MergeRESX.csproj.CoreCompileInputs.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\obj\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\obj\Debug\net6.0\refint\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\obj\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\obj\Debug\net6.0\MergeRESX.genruntimeconfig.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\obj\Debug\net6.0\ref\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\bin\Debug\net6.0\MergeRESX.exe
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\bin\Debug\net6.0\MergeRESX.deps.json
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\bin\Debug\net6.0\MergeRESX.runtimeconfig.json
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\bin\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\bin\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\obj\Debug\net6.0\MergeRESX.csproj.AssemblyReference.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\obj\Debug\net6.0\MergeRESX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\obj\Debug\net6.0\MergeRESX.AssemblyInfoInputs.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\obj\Debug\net6.0\MergeRESX.AssemblyInfo.cs
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\obj\Debug\net6.0\MergeRESX.csproj.CoreCompileInputs.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\obj\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\obj\Debug\net6.0\refint\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\obj\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\obj\Debug\net6.0\MergeRESX.genruntimeconfig.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\New folder\obj\Debug\net6.0\ref\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\bin\Debug\net6.0\MergeRESX.exe
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\bin\Debug\net6.0\MergeRESX.deps.json
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\bin\Debug\net6.0\MergeRESX.runtimeconfig.json
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\bin\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\bin\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\obj\Debug\net6.0\MergeRESX.csproj.AssemblyReference.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\obj\Debug\net6.0\MergeRESX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\obj\Debug\net6.0\MergeRESX.AssemblyInfoInputs.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\obj\Debug\net6.0\MergeRESX.AssemblyInfo.cs
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\obj\Debug\net6.0\MergeRESX.csproj.CoreCompileInputs.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\obj\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\obj\Debug\net6.0\refint\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\obj\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\obj\Debug\net6.0\MergeRESX.genruntimeconfig.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\Master\obj\Debug\net6.0\ref\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\obj\Debug\net6.0\MergeRESX.csproj.AssemblyReference.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\obj\Debug\net6.0\MergeRESX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\obj\Debug\net6.0\MergeRESX.AssemblyInfoInputs.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\obj\Debug\net6.0\MergeRESX.AssemblyInfo.cs
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\obj\Debug\net6.0\MergeRESX.csproj.CoreCompileInputs.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\obj\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\obj\Debug\net6.0\refint\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\obj\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\bin\Debug\net6.0\MergeRESX.exe
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\bin\Debug\net6.0\MergeRESX.deps.json
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\bin\Debug\net6.0\MergeRESX.runtimeconfig.json
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\bin\Debug\net6.0\MergeRESX.dll
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\bin\Debug\net6.0\MergeRESX.pdb
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\obj\Debug\net6.0\MergeRESX.genruntimeconfig.cache
+C:\Users\emilm\Desktop\LangWork\for mixing lang resx resources only\_V\New folder (3)\Master\obj\Debug\net6.0\ref\MergeRESX.dll

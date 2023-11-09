@@ -1,0 +1,44 @@
+"ExecuteMerge" will load all .rexs stored in folder path wich is the first
+parameter string path...
+Then will merge all files in a new directory, that it is the secound parameter.. (this is the job).
+
+"ConfigDialog" will make easy to spesify language etc..
+it will dialog in the console and request flags to select
+languages and folders etc..  it will create folders where the merged file will be set and
+all files of this lang.. will be moved in as well.
+
+
+can be -> var folders = ConfigDialog(workingFolder);
+it will ask for which language will work with...
+
+var folders = ConfigDialog(workingFolder, "ru, fr, de");
+will not ask for the lang so it will generate it as its spesified...
+
+
+ExecuteTheMerge(f, f); works as it but in order to marge in differents folders
+so can be looped
+
+
+It will as well generate a file in the folder of the language (info.txt)
+with all nodes that the value repeat for different keys.
+
+
+
+//-----------------------
+
+
+🚩 need to respect S"O"LID principals
+
+i will add interface in order to respect "Open close" principal
+
+
+🚩 as well i add method to take another list that will gives The
+id that was deleted because repeats
+
+
+
+🚩 solo da valor que repite Name solo si el valor es diferente para el mismo Name
+y si no fue annadido al merge
+es decir va a dar una lista con los valores que estan equivocados por repetir el
+mismo id solo si los valores son diferentes para ese mismo id y si no ha sido
+annadido al merge
